@@ -2,7 +2,7 @@
 Final project repository for RCES
 
 My Binder:
-https://mybinder.org/v2/gh/jbaur1/rces-final-project/HEAD 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbaur1/rces-final-project/HEAD)
 
 Project Description:
 

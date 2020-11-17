@@ -6,4 +6,10 @@ dependencies:
   - pandas
   - xarray
   - matplotlib 
+  - openpiv
+  - os
+  - time 
+  - glob
+  - warnings
+   
   
