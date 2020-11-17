@@ -11,7 +11,7 @@ This project aims to derive and analyze the velocity of a lava flow site at Fiss
 
 Scientific Questions:
 
-How does lava flow velocity at Site 4 change throughout a day?
-Understaning how the flow geometry, and it's affect on velocity
+- How does lava flow velocity at Site 4 change throughout a day?
+- Understaning how the flow geometry, and it's affect on velocity
    -influence of flow width, and depth on the apparent velocity?
    
