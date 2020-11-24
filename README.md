@@ -11,7 +11,11 @@ This project aims to derive and analyze the velocity of a lava flow site at Fiss
 
 Scientific Questions:
 
+- How can I accuratley extract lava flow surface velocity from drone footage?
 - How does lava flow velocity at Site 4 change throughout a day?
-- Understaning how the flow geometry, and it's affect on velocity
-   -influence of flow width, and depth on the apparent velocity?
+- Understaning the flow geometry, and it's affect on velocity...
+       -influence of flow width, and depth on the apparent velocity?
    
+
+Datasetlinks: https://drive.google.com/drive/folders/1oVIuvti11dBUmHZYhcskmi8HZL38j-q3?usp=sharing
+
