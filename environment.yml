@@ -16,26 +16,23 @@ dependencies:
   - PIL==7.2.0
   #- PIL import Image
   
-  - gdrivefs==0+untagged.18.g540a55f
+  - gdrivefs  #==0+untagged.18.g540a55f
   
-  - time 
+  - IPython==7.18.1
+  #- from IPython.display import Video
+  #- from IPython import display
+  #- IPython.display import Image
+  #- IPython.display import display
+  #- IPython.core.display import HTML
   
-  - warnings
-  - 
+
   - skimage==0.17.2 
   #-import skimage.io as io
   #-import skimage.viewer
-  
-  
-  - from IPython.display import Video
-  - from IPython import display
-  
-  
-  - IPython.display import Image
-  - IPython.display import display
-  - IPython.core.display import HTML
 
   #Older
   #- os
   #- glob
+  #- time 
+  #- warnings
   
