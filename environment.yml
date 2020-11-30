@@ -15,15 +15,14 @@ dependencies:
   - matplotlib.image as mpimg
   - matplotlib.pyplot import figure
   - from IPython.display import Video
+  - from IPython import display
   - from matplotlib import animation
   - PIL
   - PIL import Image
   - IPython.display import Image
   - IPython.display import display
   - IPython.core.display import HTML
-  - matplotlib.pyplot as plt 
-from matplotlib import ticker, cm
-%matplotlib inline  
-from IPython import display
-display.set_matplotlib_formats('retina')
+  - matplotlib.pyplot 
+  - matplotlib import ticker, cm
+  - gdrivefs
   
