@@ -6,25 +6,36 @@ dependencies:
   - pandas==1.1.1
   - xarray==0.16.0
   - fsspec==0.8.0
-  - matplotlib 
+  - matplotlib==3.3.1
+  #- matplotlib.pyplot 
+  #- matplotlib import ticker, cm
+  #- matplotlib.image as mpimg
+  #- matplotlib.pyplot import figure
+  #- from matplotlib import animation
+  
+  - PIL==7.2.0
+  #- PIL import Image
+  
   - gdrivefs==0+untagged.18.g540a55f
-  - os
+  
   - time 
-  - glob
+  
   - warnings
-  - skimage== 0.17.2 #.io
-  - viewer #via skimage
-  - matplotlib.image as mpimg
-  - matplotlib.pyplot import figure
+  - 
+  - skimage==0.17.2 
+  #-import skimage.io as io
+  #-import skimage.viewer
+  
+  
   - from IPython.display import Video
   - from IPython import display
-  - from matplotlib import animation
-  - PIL==7.2.0
-  - PIL import Image
+  
+  
   - IPython.display import Image
   - IPython.display import display
   - IPython.core.display import HTML
-  - matplotlib.pyplot 
-  - matplotlib import ticker, cm
 
+  #Older
+  #- os
+  #- glob
   
