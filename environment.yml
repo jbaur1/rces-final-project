@@ -6,7 +6,7 @@ dependencies:
   - pandas==1.1.1
   - xarray==0.16.0
   - fsspec==0.8.0
-  - urllib  #.request 
+ # - urllib.request==3.7  #.request 
   #-from urllib.request import urlopen
   
   - matplotlib==3.3.1
