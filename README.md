@@ -18,12 +18,12 @@ More broadly, the scripts provided outline a workflow
 4. Xarray_to_GIF: Input: Xarray -> Creates GIFs showing velocity for each frame and how it changes overtime 
 5. final_project: Analyzes the velocity fields and creates figures to conceptualize data
 
-Scientific Questions:
+### Scientific Questions:
 
 - How can I accuratley extract lava flow surface velocity from drone footage?
-- How does lava flow velocity at Site 4 change throughout a day?
-- Understaning the flow geometry, and it's affect on velocity...
-       -influence of flow width, and depth on the apparent velocity?
+- How does lava flow velocity at Site 6 change throughout a day?
+- What is the average speed of the flows?
+- Understaning the influence of channel width on the apparent velocity?
    
 
 Datasetlinks: https://drive.google.com/drive/folders/1oVIuvti11dBUmHZYhcskmi8HZL38j-q3?usp=sharing
