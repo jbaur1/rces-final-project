@@ -10,7 +10,7 @@ This project aims to derive and analyze the velocity of a lava flow site at Fiss
 
 ### Workflow:
 
-More broadly, the scripts provided outline a workflow 
+More broadly, the scripts provided outline a workflow to derive and analyze surface velocity from drone video footage
 
 1. Video_to_Frames: Input: Video Data -> Output: 1 second frames in form of jpeg or tiff
 2. Frames_to_PIV: Input: Frame Images -> Output: Velocity fields in form of csv files for each image generated through OpenPIV - Particle Image Velocimetry
@@ -25,6 +25,6 @@ More broadly, the scripts provided outline a workflow
 - What is the average speed of the flows?
 - Understaning the influence of channel width on the apparent velocity?
    
-
+   
 Datasetlinks: https://drive.google.com/drive/folders/1oVIuvti11dBUmHZYhcskmi8HZL38j-q3?usp=sharing
 
