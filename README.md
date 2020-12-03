@@ -18,6 +18,8 @@ More broadly, the scripts provided outline a workflow to derive and analyze surf
 4. Xarray_to_GIF: Input: Xarray -> Creates GIFs showing velocity for each frame and how it changes overtime 
 5. final_project: Analyzes the velocity fields and creates figures to conceptualize data
 
+(Note: only scripts for PIV_to_Xarray and final_project are compatible with Binder - others are meant to be downloaded and run on local drive)
+
 ### Scientific Questions:
 
 - How can I accuratley extract lava flow surface velocity from drone footage?
